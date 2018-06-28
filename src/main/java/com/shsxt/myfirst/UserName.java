@@ -6,5 +6,8 @@ package com.shsxt.myfirst;
 public class UserName {
     public static void main(String[] args) {
         System.out.println("aaaaa");
+        System.out.println("woshizhizhang");
+
+
     }
 }
